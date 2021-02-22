@@ -1,0 +1,5 @@
+C:\MyProjects\R&D\EmployeeRestAPI\Employee.Model\bin\Debug\Employee.Model.dll
+C:\MyProjects\R&D\EmployeeRestAPI\Employee.Model\bin\Debug\Employee.Model.pdb
+C:\MyProjects\R&D\EmployeeRestAPI\Employee.Model\obj\Debug\Employee.Model.csprojAssemblyReference.cache
+C:\MyProjects\R&D\EmployeeRestAPI\Employee.Model\obj\Debug\Employee.Model.dll
+C:\MyProjects\R&D\EmployeeRestAPI\Employee.Model\obj\Debug\Employee.Model.pdb
